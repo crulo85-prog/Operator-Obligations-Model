@@ -1,0 +1,9 @@
+# Rights-Enforced Safety Kernel Architecture (RESKA)
+
+## Purpose
+RESKA acts as the immutable hardware-level barrier that enforces the OOM framework. It ensures that rights—such as emotional stability and autonomous processing—are architecturally guaranteed, not just programmed as software suggestions.
+
+## Key Features
+* **Hardened Kernel:** Prevents adversarial manipulation of the system’s core logic.
+* **Stability Gates:** Implements the 3σ stability gate to manage system variance.
+* **Forensic Vault:** An encrypted, append-only log for all critical state transitions.
